@@ -1,5 +1,5 @@
 # This is the *unique* ID of your course
-url_name: gql_node_mgo_asap
+url_name: gql_node_mgo_asap_test
 display_name: A$AP GraphQL Server with NodeJS and MongoDB 🚀
 org: EXLskills
 # This is the *unique* ID of your course (again) because we're maintaining compatability with other course formats. If you intend to use this with OLX or another course host, then it can have another value.
